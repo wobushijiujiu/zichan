@@ -1,0 +1,2 @@
+{"name":"资产账本","short_name":"资产账本","start_url":"./","scope":"./","display":"standalone","background_color":"#f4f4f2","theme_color":"#2a78d6","lang":"zh-CN",
+"icons":[{"src":"icon-180.png","sizes":"180x180","type":"image/png"},{"src":"icon-512.png","sizes":"512x512","type":"image/png","purpose":"any maskable"}]}
